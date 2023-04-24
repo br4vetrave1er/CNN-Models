@@ -1,0 +1,5 @@
+Link to the dataset used
+
+https://www.kaggle.com/datasets/kmader/food41
+
+You only need to download data for Pizza and Hotdog while using this model 
